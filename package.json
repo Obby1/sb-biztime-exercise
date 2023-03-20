@@ -1,0 +1,24 @@
+{
+  "name": "biztime",
+  "version": "1.0.0",
+  "description": "biztime exercise for springboard",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Obby1/sb-biztime-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obby1/sb-biztime-exercise/issues"
+  },
+  "homepage": "https://github.com/Obby1/sb-biztime-exercise#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.10.0"
+  }
+}
